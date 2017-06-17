@@ -1,0 +1,25 @@
+{
+  "name": "fcc-microtime",
+  "version": "0.0.1",
+  "description": "FCC Timestamp microservice challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barottomartin/fcc-timestamp-microservice"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
